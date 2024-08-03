@@ -29,7 +29,7 @@
       <p>
         &copy; 2023 Your Company. All rights reserved.<br />
         Owner- Ayush Verma <br />
-        Web Development Internship (Level 1:- Task 1)
+        Web Development Internship (Level 1:- Task 2)
       </p>
     </footer>
   </body>
